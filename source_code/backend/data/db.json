@@ -1,0 +1,155 @@
+{
+  "blogs": [
+    {
+      "title": "5 Tips for Perfecting Your Tennis Serve",
+      "body": "Mastering your tennis serve takes practice and precision. Check out these 5 tips to elevate your game and ace those serves every time!",
+      "author": "chethan",
+      "category": "tennis",
+      "comments": [
+        {
+          "id": 0,
+          "comment": "Serve up success on the court with these 5 expert tips to perfect your tennis serve and dominate your opponents. Game, set, match!",
+          "author": "snehal"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "The Importance of Proper Cycling Gear",
+      "body": "Riding enthusiasts, listen up! Discover why having the right cycling gear is essential for both performance and safety on the road or trail.",
+      "author": "haren",
+      "category": "cycling",
+      "comments": [
+        {
+          "id": 0,
+          "comment": "Gear up for success on your cycling adventures! Learn why the right equipment is crucial for maximizing performance and staying safe while riding.",
+          "author": "snehal"
+        },
+        {
+          "id": 1,
+          "comment": "Gear up for success on your next ride! Learn how proper cycling gear can enhance your performance and keep you safe on the road or trail.",
+          "author": "steven"
+        },
+        {
+          "id": 2,
+          "comment": "\"Gear up for success on your cycling adventures! Learn how the right equipment can enhance your performance and keep you safe on the road or trail.\"",
+          "author": "test"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "Unlocking the Secrets to a Stellar Gymnastics Routine",
+      "body": "Want to dazzle the crowd with your gymnastics routine? Dive into these insider tips to perfect your flips, twists, and landings like a pro!",
+      "author": "chethan",
+      "category": "gymnastics",
+      "comments": [
+        {
+          "id": 0,
+          "comment": "Discover the key to wowing the audience with flawless flips and twists in your gymnastics routine. Elevate your performance with these expert tips!",
+          "author": "snehal"
+        },
+        {
+          "id": 1,
+          "comment": "Excellent post!",
+          "author": "test"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "Navigating the World of E-Sports: A Beginner's Guide",
+      "body": "Interested in diving into the thrilling world of e-sports? Here's everything you need to know to get started, from popular games to basic strategies.",
+      "author": "steven",
+      "category": "e-sports",
+      "comments": [
+        {
+          "id": 0,
+          "comment": "Ready to level up your gaming experience? This beginner's guide to e-sports has got you covered with essential tips and insights. Game on!",
+          "author": "snehal"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "Mastering the Basics of Soccer: A Beginner's Primer",
+      "body": "New to soccer? Fear not! Learn the fundamental skills and rules that will kick-start your journey to becoming a soccer superstar.",
+      "author": "steven",
+      "category": "soccer",
+      "comments": [],
+      "id": 5
+    },
+    {
+      "title": "Swim Like a Pro: Essential Techniques for Faster Times",
+      "body": "Dive into these expert-approved swimming techniques to shave seconds off your lap times and glide through the water with grace and speed.",
+      "author": "steven",
+      "category": "swimming",
+      "comments": [],
+      "id": 6
+    },
+    {
+      "title": "The Art of the Perfect Volleyball Spike",
+      "body": "Ready to elevate your volleyball game? Discover the secrets to executing the perfect spike, from timing and technique to power and precision.",
+      "author": "snehal",
+      "category": "volleyball",
+      "comments": [],
+      "id": 7
+    },
+    {
+      "title": "Baseball Basics: A Crash Course for New Fans",
+      "body": "Step up to the plate and learn the essential rules, positions, and terminology of baseball to fully enjoy America's favorite pastime.",
+      "author": "haren",
+      "category": "baseball",
+      "comments": [],
+      "id": 8
+    },
+    {
+      "title": "Demystifying Golf: A Beginner's Guide to the Greens",
+      "body": "Tee off with confidence! Uncover the basics of golf, from swing mechanics to course etiquette, and start your journey to becoming a master of the fairway.",
+      "author": "haren",
+      "category": "golf",
+      "comments": [],
+      "id": 9
+    },
+    {
+      "title": "The Mental Game of Basketball: Strategies for Success",
+      "body": "Basketball is as much a mental game as it is physical. Discover how to sharpen your focus, boost your confidence, and outsmart your opponents on the court.",
+      "author": "haren",
+      "category": "basketball",
+      "comments": [],
+      "id": 10
+    },
+    {
+      "title": "Setting the Stage: Mastering the Art of Volleyball Setting",
+      "body": "Setting is the backbone of a successful volleyball play. Dive into this guide to learn the techniques and strategies for mastering the perfect set, setting up your team for smashing success on the court.",
+      "author": "snehal",
+      "category": "volleyball",
+      "comments": [],
+      "id": 11
+    },
+    {
+      "title": "Tactical Triumphs: Unraveling the Strategies Behind Successful Football Formations",
+      "body": "Delve into the intricate world of football formations and uncover how tactical choices on the field can shape the outcome of the game. From the classic 4-4-2 to innovative variations, explore the strengths and weaknesses of each formation and how they influence gameplay.",
+      "author": "chethan",
+      "category": "football",
+      "comments": [],
+      "id": 12
+    },
+    {
+      "title": "The Evolution of Football Equipment: From Leather Helmets to High-Tech Gear",
+      "body": "Strap in for a journey through time as we trace the evolution of football equipment. From humble beginnings with leather helmets to today's cutting-edge protective gear and wearable technology, discover how advancements in equipment have revolutionized safety and performance on the gridiron.",
+      "author": "steven",
+      "category": "football",
+      "comments": [],
+      "id": 13
+    },
+    {
+      "title": "Volleyball is a great sport!",
+      "body": "Volleyball is the best sport according to me.",
+      "author": "test",
+      "category": "volleyball",
+      "comments": [],
+      "id": 14
+    }
+  ]
+}

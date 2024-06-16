@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #f1356d;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.navbar a:hover {
+  color: #f1356d;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* blog previews / list */
+.blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.blog-preview h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+
+.blog-preview a{
+  text-decoration: none;
+}
+
+/* blog details page */
+.blog-details h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 10px;
+}
+.blog-details div {
+  margin: 20px 0;
+}
+.blog-details button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* create new blog form */
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+.create h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+.create input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* 404 Error Page Styles */
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50vh; /* Full viewport height */
+  text-align: center;
+  color: #333; /* Dark grey text */
+}
+
+.not-found-container h1 {
+  margin-bottom: 1rem;
+}
+
+.not-found-container a {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.5rem 1rem;
+  color: white;
+  background-color: #f1356d; /* Bootstrap primary blue */
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.not-found-container a:hover {
+  background-color: #f1356d;; /* Darken the blue on hover */
+}
+
+.users-list {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.users-list:hover {
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.users-list h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+
+.users-list a{
+  text-decoration: none;
+}
+
+.users-list button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.comment-add {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.comment-add label {
+  text-align: left;
+  display: block;
+}
+.comment-add h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+.comment-add input, .comment-add textarea, .comment-add select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.comment-add button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Style for the outer container of the comments */
+.comment {
+  margin-top: 10px;
+}
+
+.comment div{
+  margin: 5px;
+}
+
+.comment button {
+  background: #f1356d;       /* Bright pink background */
+  color: #fff;                /* White text */
+  border: 0;                  /* No border */
+  padding: 4px 6px;           /* Smaller padding to reduce button size */
+  border-radius: 8px;         /* Rounded corners */
+  cursor: pointer;            /* Pointer cursor on hover */
+  font-size: 12px;            /* Smaller font size for the text */
+}
+
+.categories {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;  /* Ensures content is spaced out properly */
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.categories h1 {
+  color: #f1356d;
+}
+.categories .links {
+  margin-left: auto;
+}
+.categories a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+  transition: background-color 0.3s, color 0.3s;
+}
+.categories a:hover {
+  color: #f1356d;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+}
+
+.create-login {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Set height of container to full viewport height */
+}
+
+
+.create-login button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.create-login label {
+  position: absolute;
+  top: 5%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+}
+
+/* Styling the search box */
+.search-box {
+  margin-left: 20px;
+  position: relative;
+  display: inline-block;
+  width: 200px;
+}
+
+/* Styling the input field */
+.search-box input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+}
+
+/* Styling the search button */
+.search-box button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+
+/* Hover effect on search button */
+.search-box button:hover {
+  background-color: #0056b3;
+}
+
+.notification-bar {
+  margin-left: 100px;
+  position: relative;
+  display: inline-block;
+
+}
+
+.pop-button{
+  margin-left: 100px;
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}

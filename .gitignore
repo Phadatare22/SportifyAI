@@ -1,0 +1,4 @@
+source_code/frontend/node_modules/
+source_code/backend/node_modules/
+source_code/backend/elasticsearch-7.17.19/
+documentation/

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.13.1",
+    "json-server": "^0.17.4"
+  }
+}

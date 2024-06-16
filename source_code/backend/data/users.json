@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "password": "admin",
+      "persona": "admin",
+      "enabled": true,
+      "subscriptions": [],
+      "notifications": [],
+      "search_keys": []
+    },
+    {
+      "id": "haren",
+      "password": "haren",
+      "persona": "moderator",
+      "enabled": true,
+      "subscriptions": [],
+      "notifications": [],
+      "search_keys": []
+    },
+    {
+      "id": "snehal",
+      "password": "snehal",
+      "persona": "student",
+      "enabled": true,
+      "subscriptions": [
+        "volleyball"
+      ],
+      "notifications": [],
+      "search_keys": [
+        "volleyball"
+      ]
+    },
+    {
+      "id": "chethan",
+      "password": "chethan",
+      "persona": "student",
+      "enabled": true,
+      "subscriptions": [],
+      "notifications": [],
+      "search_keys": []
+    },
+    {
+      "id": "steven",
+      "password": "steven",
+      "persona": "faculty",
+      "enabled": true,
+      "subscriptions": [],
+      "notifications": [],
+      "search_keys": [
+        "soccer"
+      ]
+    },
+    {
+      "id": "test",
+      "password": "test",
+      "persona": "staff",
+      "enabled": true,
+      "subscriptions": [
+        "baseball"
+      ],
+      "notifications": [],
+      "search_keys": [
+        "basketball"
+      ]
+    }
+  ]
+}
